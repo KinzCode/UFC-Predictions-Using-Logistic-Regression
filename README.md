@@ -6,7 +6,7 @@ Ben McKinnon & Daniel Braun
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
+* [Use](#use)
 
 ## General info
 Predicting who will win and lose a fight in the UFC based on their hisotrical performances using logistic regression.
@@ -18,5 +18,10 @@ Project is created with:
   * Numpy 1.19.4
   * SKLearn 0.24.1
 	
-## Setup
-To run this project, install it locally using npm:
+## Use
+The projects is divided into 5 separate scripts which need to be ran in the following order:
+	1) cols.py
+	2) data_cleaner.py
+	3) feature_creator.py
+	4) format_summed.py
+	5) model.py
