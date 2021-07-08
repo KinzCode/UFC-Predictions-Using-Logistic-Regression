@@ -10,7 +10,7 @@ Ben McKinnon & Daniel Braun
 * [Use](#use)
 
 ## General info
-The purpose of this project is to make predictions on who is more likely to win a UFC bout and how likely each athlete is to win. This is achieved by sourcing historical data of athletes, and turning this into model features which can then be used to make suche predictions. This model looks at how many strikes/submissions are attempted, landed , and control time a fighter has had over their opponents, as well as how many of these their opponents have had over them, across the athletes last 3 fights.
+The purpose of this project is to make predictions on who is more likely to win a UFC bout and how likely each athlete is to win. This is achieved by sourcing historical data of athletes, and turning this into model features which can then be used to make such predictions. This model looks at how many strikes/submissions are attempted, landed , and control time a fighter has had over their opponents, as well as how many of these their opponents have had over them, across the athletes last 3 fights.
 
 ## Technologies
 Project is created with:
