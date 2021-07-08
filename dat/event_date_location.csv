@@ -1,0 +1,357 @@
+EventID,Country,City,Venue,Date,EventStart
+1031,USA,Las Vegas,UFC Apex,1/05/2021,23:01:04
+1030,USA,Las Vegas,UFC Apex,22/05/2021,20:12:10
+1029,USA,Houston,Toyota Center,15/05/2021,22:31:00
+1028,USA,Las Vegas,UFC Apex,8/05/2021,22:00:52
+1027,USA,Las Vegas,UFC Apex,10/04/2021,15:34:24
+1026,USA,Jacksonville,Vystar Veterans Memorial Arena,24/04/2021,22:00:48
+1025,USA,Las Vegas,UFC Apex,17/04/2021,23:03:03
+1024,USA,Las Vegas,UFC Apex,20/03/2021,23:30:07
+1023,USA,Las Vegas,UFC Apex,13/03/2021,22:06:37
+1022,USA,Las Vegas,UFC Apex,27/03/2021,23:31:10
+1021,USA,Las Vegas,UFC Apex,6/03/2021,22:17:34
+1020,USA,Las Vegas,UFC Apex,27/02/2021,23:00:48
+1019,USA,Las Vegas,UFC Apex,20/02/2021,22:01:41
+1018,USA,Las Vegas,UFC Apex,6/02/2021,22:00:29
+1017,United Arab Emirates,Abu Dhabi,Etihad Arena,20/01/2021,14:02:09
+1016,United Arab Emirates,Abu Dhabi,Etihad Arena,23/01/2021,0:03:57
+1015,USA,Las Vegas,UFC Apex,13/02/2021,0:01:34
+1014,United Arab Emirates,Abu Dhabi,Etihad Arena,16/01/2021,17:00:56
+1013,USA,Las Vegas,UFC Apex,19/12/2020,21:01:01
+1012,USA,Las Vegas,UFC Apex,12/12/2020,0:32:37
+1011,USA,Las Vegas,UFC Apex,5/12/2020,1:00:52
+1010,USA,Las Vegas,UFC Apex,28/11/2020,1:00:30
+1009,USA,Las Vegas,UFC Apex,14/11/2020,22:01:06
+1008,USA,Las Vegas,UFC Apex,7/11/2020,0:30:24
+1007,USA,Las Vegas,UFC Apex,17/11/2020,1:00:09
+1006,USA,Las Vegas,UFC Apex,10/11/2020,1:00:14
+1005,USA,Las Vegas,UFC Apex,4/11/2020,1:00:10
+1004,USA,Las Vegas,UFC Apex,31/10/2020,20:01:04
+1003,USA,Las Vegas,UFC Apex,21/11/2020,23:30:46
+1002,United Arab Emirates,Abu Dhabi,Flash Forum,10/10/2020,21:00:35
+1001,United Arab Emirates,Abu Dhabi,Flash Forum,17/10/2020,20:00:39
+1000,USA,Las Vegas,UFC Apex,15/09/2020,0:00:09
+999,USA,Las Vegas,UFC Apex,8/09/2020,0:00:15
+998,USA,Las Vegas,UFC Apex,1/09/2020,0:00:33
+997,USA,Las Vegas,UFC Apex,19/09/2020,21:01:08
+996,USA,Las Vegas,UFC Apex,12/09/2020,21:00:20
+995,USA,Las Vegas,UFC Apex,5/09/2020,23:01:15
+994,United Arab Emirates,Abu Dhabi,Flash Forum,3/10/2020,23:32:22
+993,USA,Las Vegas,UFC Apex,29/08/2020,22:02:42
+992,United Arab Emirates,Abu Dhabi,Flash Forum,26/09/2020,23:00:26
+991,USA,Las Vegas,UFC Apex,25/08/2020,0:00:15
+990,USA,Las Vegas,UFC Apex,18/08/2020,0:00:11
+989,USA,Las Vegas,UFC Apex,22/08/2020,22:30:55
+988,United Arab Emirates,Abu Dhabi,Flash Forum,24/10/2020,15:00:32
+987,USA,Las Vegas,UFC Apex,8/08/2020,22:00:20
+986,USA,Las Vegas,UFC Apex,11/08/2020,0:00:12
+985,USA,Las Vegas,UFC Apex,4/08/2020,0:00:15
+984,USA,Las Vegas,UFC Apex,1/08/2020,23:00:55
+983,United Arab Emirates,Abu Dhabi,Flash Forum,25/07/2020,20:59:03
+982,United Arab Emirates,Abu Dhabi,Flash Forum,18/07/2020,21:00:30
+981,United Arab Emirates,Abu Dhabi,Flash Forum,15/07/2020,23:00:47
+980,USA,Las Vegas,UFC Apex,20/06/2020,21:00:55
+979,USA,Las Vegas,UFC Apex,30/05/2020,22:00:30
+978,USA,Jacksonville,Vystar Veterans Memorial Arena,16/05/2020,22:00:41
+977,USA,Jacksonville,Vystar Veterans Memorial Arena,13/05/2020,22:16:28
+976,USA,Las Vegas,UFC Apex,27/06/2020,22:01:31
+975,USA,Jacksonville,Vystar Veterans Memorial Arena,9/05/2020,22:04:10
+974,United Arab Emirates,Abu Dhabi,UFC Fight Island,11/07/2020,22:02:02
+973,USA,Las Vegas,UFC Apex,13/06/2020,23:00:35
+971,USA,Las Vegas,UFC Apex,6/06/2020,22:02:04
+970,USA,Las Vegas,UFC Apex,15/08/2020,23:00:31
+966,Brazil,Brasilia,Ginasio Nilson Nelson,14/03/2020,19:02:07
+964,USA,Las Vegas,T-Mobile Arena,7/03/2020,0:01:27
+963,USA,Las Vegas,T-Mobile Arena,18/01/2020,0:03:00
+961,USA,Norfolk,Chartway Arena,29/02/2020,22:01:14
+960,USA,Rio Rancho,Santa Ana Star Center,15/02/2020,22:00:53
+958,USA,Houston,Toyota Center,8/02/2020,23:32:05
+957,New Zealand,Auckland,Spark Arena,22/02/2020,21:00:02
+956,USA,Raleigh,PNC Arena,25/01/2020,22:00:17
+955,South Korea,Busan,Sajik Arena,21/12/2019,7:01:03
+954,Brazil,Sao Paulo,Ginasio do Ibirapuera,16/11/2019,22:07:01
+953,USA,Las Vegas,T-Mobile Arena,14/12/2019,23:17:05
+952,Russia,Moscow,CSKA Arena,9/11/2019,15:59:58
+951,Singapore,Kallang,Singapore Indoor Stadium,26/10/2019,9:29:59
+950,USA,Washington,Capital One Arena,7/12/2019,23:03:36
+949,USA,New York City,Madison Square Garden,2/11/2019,22:30:25
+948,USA,Boston,TD Garden,18/10/2019,22:02:12
+947,USA,Tampa,Amalie Arena,12/10/2019,21:00:06
+946,Australia,Melbourne,Marvel Stadium,5/10/2019,22:48:22
+945,Denmark,Copenhagen,Royal Arena,28/09/2019,15:01:58
+944,Mexico,Mexico City,Mexico City Arena,21/09/2019,21:03:21
+943,USA,Las Vegas,UFC Apex,27/08/2019,23:53:13
+942,USA,Las Vegas,UFC Apex,20/08/2019,0:04:13
+941,USA,Las Vegas,UFC Apex,13/08/2019,23:52:17
+940,Canada,Vancouver,Rogers Arena,14/09/2019,21:03:26
+939,USA,Newark,Prudential Center,3/08/2019,16:01:51
+938,China,Shenzhen,Shenzhen Universiade Sports Centre,31/08/2019,7:00:01
+937,Uruguay,Montevideo,Antel Arena,10/08/2019,21:00:45
+936,United Arab Emirates,Abu Dhabi,The Arena,7/09/2019,14:00:17
+935,Canada,Edmonton,Rogers Place,27/07/2019,23:03:06
+934,USA,Las Vegas,UFC Apex,6/08/2019,0:02:47
+933,USA,Las Vegas,UFC Apex,30/07/2019,0:02:11
+932,USA,Las Vegas,UFC Apex,23/07/2019,0:03:34
+931,USA,Las Vegas,UFC Apex,16/07/2019,23:50:03
+930,USA,San Antonio,AT&T Center,20/07/2019,22:00:36
+929,USA,Las Vegas,UFC Apex,9/07/2019,2:00:36
+928,USA,Las Vegas,UFC Apex,25/06/2019,0:02:20
+927,USA,Las Vegas,UFC Apex,18/06/2019,0:09:26
+926,USA,Anaheim,Honda Center,17/08/2019,22:32:57
+925,USA,Sacramento,Golden 1 Center,13/07/2019,21:01:30
+924,USA,Las Vegas,T-Mobile Arena,6/07/2019,22:32:33
+923,USA,Minneapolis,Target Center,29/06/2019,22:14:50
+922,USA,Greenville,Bon Secours Wellness Arena,22/06/2019,20:00:36
+921,Sweden,Stockholm,Ericsson Globe,1/06/2019,14:02:15
+920,USA,Rochester,Blue Cross Arena,18/05/2019,21:00:03
+919,USA,Chicago,United Center,8/06/2019,22:15:29
+918,Brazil,Rio de Janeiro,Jeunesse Arena,11/05/2019,22:30:05
+917,Canada,Ottawa,Canadian Tire Centre,4/05/2019,21:02:07
+916,USA,Sunrise,BB&T Center,27/04/2019,21:31:03
+915,Russia,Saint Petersburg,Yubileyny Sports Palace,20/04/2019,14:00:42
+914,USA,Atlanta,State Farm Arena,13/04/2019,22:15:17
+913,USA,Philadelphia,Wells Fargo Center,30/03/2019,19:34:44
+912,USA,Nashville,Bridgestone Arena,23/03/2019,21:02:31
+911,United Kingdom,London,The O2 Arena,16/03/2019,17:01:35
+910,USA,Wichita,Intrust Bank Arena,9/03/2019,22:00:21
+909,Czech Republic,Prague,O2 Arena,23/02/2019,16:02:05
+908,USA,Las Vegas,T-Mobile Arena,2/03/2019,23:08:36
+907,USA,Phoenix,Talking Stick Resort Arena,17/02/2019,22:37:53
+906,Brazil,Fortaleza,Centro de Formação Olímpica do Nordeste,2/02/2019,22:04:22
+905,Australia,Melbourne,Rod Laver Arena,9/02/2019,0:00:15
+903,USA,Brooklyn,Barclays Center,19/01/2019,23:30:01
+902,USA,Los Angeles,The Forum,29/12/2018,23:16:10
+901,Australia,Adelaide,Adelaide Entertainment Centre,1/12/2018,0:02:18
+898,Argentina,Buenos Aires,Parque Roca Arena,17/11/2018,0:03:30
+897,China,Beijing,Cadillac Arena,24/11/2018,8:17:14
+896,USA,Milwaukee,Fiserv Forum,15/12/2018,21:01:28
+894,USA,Las Vegas,Pearl Concert Theater,30/11/2018,23:30:02
+893,Canada,Toronto,Scotiabank Arena,8/12/2018,23:16:48
+892,USA,Denver,Pepsi Center,10/11/2018,0:09:56
+891,USA,New York City,Madison Square Garden,3/11/2018,22:18:55
+890,Canada,Moncton,Avenir Centre,27/10/2018,22:31:11
+887,USA,Las Vegas,T-Mobile Arena,6/10/2018,22:30:17
+886,USA,Dallas,American Airlines Center,8/09/2018,22:16:03
+882,USA,Lincoln,Pinnacle Bank Arena,25/08/2018,22:30:43
+879,Brazil,Sao Paulo,Ginasio do Ibirapuera,22/09/2018,22:34:00
+878,Russia,Moscow,Olympic Stadium,15/09/2018,14:46:43
+876,Canada,Calgary,Scotiabank Saddledome,28/07/2018,20:01:17
+875,Germany,Hamburg,Barclaycard Arena,22/07/2018,14:30:01
+874,USA,Boise,CenturyLink Arena,14/07/2018,22:33:25
+873,USA,Las Vegas,Pearl Concert Theater,6/07/2018,23:03:16
+872,Singapore,Kallang,Singapore Indoor Stadium,23/06/2018,8:30:02
+871,USA,Los Angeles,Staples Center,4/08/2018,22:31:04
+870,United Kingdom,Liverpool,Echo Arena,27/05/2018,14:30:01
+869,Chile,Santiago,Movistar Arena,19/05/2018,22:31:06
+868,USA,Utica,Adirondack Bank Center,1/06/2018,23:02:30
+867,Brazil,Rio de Janeiro,Jeunesse Arena,12/05/2018,22:15:20
+866,USA,Chicago,United Center,9/06/2018,22:15:19
+865,USA,Atlantic City,Boardwalk Hall,21/04/2018,23:30:21
+864,USA,Las Vegas,T-Mobile Arena,7/07/2018,23:00:13
+863,USA,Glendale,Gila River Arena,14/04/2018,19:31:45
+862,USA,Brooklyn,Barclays Center,7/04/2018,0:00:11
+861,United Kingdom,London,The O2 Arena,17/03/2018,18:01:25
+860,USA,Orlando,Amway Center,24/02/2018,21:17:50
+859,USA,Austin,Frank Erwin Center,18/02/2018,23:01:26
+858,USA,Las Vegas,T-Mobile Arena,3/03/2018,23:30:53
+857,Australia,Perth,Perth Arena,10/02/2018,23:30:01
+856,Brazil,Belem,Arena Guilherme Paraense (Mangueirinho),3/02/2018,0:33:09
+855,USA,Charlotte,Spectrum Center,27/01/2018,21:01:50
+854,USA,Boston,TD Garden,20/01/2018,0:01:42
+853,USA,St. Louis,Scottrade Center,14/01/2018,23:30:01
+852,USA,Fresno,Save Mart Center,9/12/2017,23:30:25
+851,USA,Las Vegas,T-Mobile Arena,30/12/2017,0:31:09
+850,USA,Detroit,Little Caesars Arena,2/12/2017,23:16:17
+849,USA,Las Vegas,Park Theatre,1/12/2017,0:31:47
+848,Canada,Winnipeg,Bell MTS Place,16/12/2017,21:30:01
+847,Brazil,Sao Paulo,Ginasio do Ibirapuera,28/10/2017,23:02:03
+846,USA,Norfolk,Ted Constant Convocation Center,11/11/2017,0:00:00
+845,USA,New York City,Madison Square Garden,4/11/2017,23:00:01
+844,China,Shanghai,Mercedes-Benz Arena,25/11/2017,8:47:46
+843,USA,Las Vegas,T-Mobile Arena,7/10/2017,23:00:19
+842,USA,Las Vegas,The Ultimate Fighter Gym,29/08/2017,0:00:01
+841,USA,Las Vegas,The Ultimate Fighter Gym,22/08/2017,0:00:02
+840,USA,Las Vegas,The Ultimate Fighter Gym,15/08/2017,0:00:01
+839,USA,Las Vegas,The Ultimate Fighter Gym,8/08/2017,0:00:00
+838,USA,Las Vegas,The Ultimate Fighter Gym,1/08/2017,0:00:01
+837,USA,Pittsburgh,PPG Paints Arena,16/09/2017,0:00:01
+836,Australia,Sydney,Qudos Bank Arena,18/11/2017,23:32:40
+835,Japan,Saitama,Saitama Super Arena,22/09/2017,0:00:00
+834,USA,Las Vegas,The Ultimate Fighter Gym,25/07/2017,0:00:01
+833,USA,Las Vegas,The Ultimate Fighter Gym,18/07/2017,0:00:02
+832,USA,Las Vegas,The Ultimate Fighter Gym,11/07/2017,0:00:01
+831,Poland,Gdansk,Ergo Arena,21/10/2017,16:02:58
+830,Canada,Edmonton,Rogers Place,9/09/2017,23:01:45
+829,Netherlands,Rotterdam,Ahoy Rotterdam,2/09/2017,15:47:15
+828,Mexico,Mexico City,Mexico City Arena,5/08/2017,23:02:02
+827,USA,Las Vegas,T-Mobile Arena,8/07/2017,23:02:06
+826,USA,Las Vegas,T-Mobile Arena,7/07/2017,22:30:45
+825,USA,Uniondale,Nassau Veterans Memorial Coliseum,22/07/2017,20:01:09
+824,USA,Oklahoma City,Chesapeake Energy Arena,25/06/2017,21:30:41
+823,USA,Anaheim,Honda Center,29/07/2017,22:32:33
+822,United Kingdom,Glasgow,The SSE Hydro,16/07/2017,16:00:32
+821,Singapore,Kallang,Singapore Indoor Stadium,17/06/2017,8:45:01
+820,New Zealand,Auckland,Vector Arena,10/06/2017,23:33:59
+819,Sweden,Stockholm,Ericsson Globe Arena,28/05/2017,14:00:01
+817,Brazil,Rio de Janeiro,Jeunesse Arena,3/06/2017,22:32:16
+816,USA,Kansas City,Sprint Center,15/04/2017,20:01:20
+815,USA,Nashville,Bridgestone Arena,22/04/2017,22:32:34
+814,USA,Dallas,American Airlines Center,13/05/2017,22:31:34
+813,USA,Buffalo,KeyBank Center,8/04/2017,22:18:46
+811,United Kingdom,London,The O2 Arena,18/03/2017,17:30:05
+810,Brazil,Fortaleza,Centro de Formação Olímpica do Nordeste,11/03/2017,0:00:51
+809,USA,Las Vegas,T-Mobile Arena,4/03/2017,0:02:13
+808,Canada,Halifax,Scotiabank Centre,19/02/2017,23:30:01
+807,USA,Brooklyn,Barclays Center,11/02/2017,0:30:15
+806,USA,Denver,Pepsi Center,28/01/2017,21:00:16
+804,USA,Houston,Toyota Center,4/02/2017,0:02:07
+803,USA,Phoenix,Talking Stick Resort Arena,15/01/2017,23:16:18
+802,USA,Las Vegas,T-Mobile Arena,30/12/2016,16:30:07
+801,USA,Sacramento,Golden 1 Center,17/12/2016,20:31:45
+800,Canada,Toronto,Air Canada Centre,10/12/2016,23:31:03
+799,USA,Albany,Times Union Center,9/12/2016,22:45:01
+798,USA,Las Vegas,The Pearl at The Palms,3/12/2016,0:00:16
+797,Australia,Melbourne,Rod Laver Arena,26/11/2016,23:30:19
+796,Brazil,Sao Paulo,Ginasio do Ibirapuera,19/11/2016,23:00:01
+795,United Kingdom,Belfast,SSE Arena,19/11/2016,17:30:21
+794,USA,New York City,Madison Square Garden,12/11/2016,0:01:09
+793,United Kingdom,Manchester,Manchester Arena,8/10/2016,23:02:08
+792,Mexico,Mexico City,Mexico City Arena,5/11/2016,22:32:05
+791,Brazil,Brasilia,Ginasio Nilson Nelson,24/09/2016,22:30:01
+790,USA,Portland,Moda Center,1/10/2016,23:15:01
+789,USA,Hidalgo,State Farm Arena,17/09/2016,23:01:35
+787,Canada,Vancouver,Rogers Arena,27/08/2016,21:00:01
+786,USA,Salt Lake City,Vivint Smart Home Arena,6/08/2016,22:59:57
+785,USA,Las Vegas,T-Mobile Arena,20/08/2016,22:30:26
+784,USA,Cleveland,Quicken Loans Arena,10/09/2016,23:31:33
+783,Germany,Hamburg,Barclaycard Arena,3/09/2016,15:45:01
+782,USA,Atlanta,Philips Arena,30/07/2016,23:00:01
+781,USA,Sioux Falls,Denny Sanford Premier Center,13/07/2016,22:02:34
+780,USA,Las Vegas,MGM Grand Garden Arena,7/07/2016,22:30:24
+779,USA,Chicago,United Center,23/07/2016,20:30:22
+778,USA,Las Vegas,T-Mobile Arena,9/07/2016,22:30:01
+777,USA,Las Vegas,Mandalay Bay Events Center,29/05/2016,22:00:16
+776,USA,Las Vegas,MGM Grand Garden Arena,8/07/2016,23:00:19
+775,Canada,Ottawa,TD Place Arena,18/06/2016,22:45:03
+774,USA,Los Angeles,The Forum,4/06/2016,22:15:01
+773,Netherlands,Rotterdam,Ahoy Rotterdam,8/05/2016,14:30:01
+772,USA,Las Vegas,MGM Grand Garden Arena,23/04/2016,22:30:30
+771,USA,Tampa,Amalie Arena,16/04/2016,20:30:12
+770,Brazil,Curitiba,Arena da Baixada,14/05/2016,22:30:17
+769,Croatia,Zagreb,Zagreb Arena,10/04/2016,14:30:01
+768,USA,Las Vegas,MGM Grand Garden Arena,5/03/2016,23:30:00
+766,Australia,Brisbane,Brisbane Entertainment Centre,19/03/2016,23:00:22
+765,USA,Pittsburgh,Consol Energy Center,21/02/2016,22:33:51
+764,USA,Las Vegas,MGM Grand Garden Arena,6/02/2016,0:00:22
+763,United Kingdom,London,The O2 Arena,27/02/2016,17:45:02
+761,USA,Newark,Prudential Center,30/01/2016,20:31:28
+759,USA,Boston,TD Garden,17/01/2016,23:00:00
+758,USA,Las Vegas,The Chelsea,10/12/2015,23:45:02
+756,USA,Las Vegas,The Chelsea,11/12/2015,1:01:07
+755,South Korea,Seoul,Olympic Park Gymnastics Arena,28/11/2015,10:01:00
+754,USA,Las Vegas,MGM Grand Garden Arena,2/01/2016,23:29:58
+753,USA,Las Vegas,MGM Grand Garden Arena,12/12/2015,23:30:02
+752,Australia,Melbourne,Etihad Stadium,14/11/2015,23:15:01
+750,USA,Orlando,Amway Center,19/12/2015,20:31:55
+749,Brazil,Sao Paulo,Ginasio do Ibirapuera,7/11/2015,23:30:02
+746,Mexico,Monterrey,Arena Monterrey,21/11/2015,23:31:41
+745,Ireland,Dublin,3Arena,24/10/2015,17:16:08
+744,USA,Houston,Toyota Center,3/10/2015,22:30:06
+743,USA,Las Vegas,MGM Grand Garden Arena,5/09/2015,23:00:01
+740,Japan,Saitama,Saitama Super Arena,26/09/2015,0:01:19
+739,Canada,Saskatoon,SaskTel Centre,23/08/2015,22:00:04
+738,USA,Nashville,Bridgestone Arena,8/08/2015,22:30:00
+733,United Kingdom,Glasgow,The SSE Hydro,18/07/2015,15:00:29
+732,USA,Las Vegas,MGM Grand Garden Arena,12/07/2015,15:30:03
+731,USA,Hollywood,Seminole Hard Rock Hotel and Casino,27/06/2015,20:00:06
+729,USA,Chicago,United Center,25/07/2015,20:14:59
+727,USA,San Diego,Valley View Casino Center,15/07/2015,16:00:22
+726,Germany,Berlin,O2 World,20/06/2015,18:00:01
+725,Brazil,Goiania,Goiania Arena,30/05/2015,20:01:04
+724,Brazil,Rio de Janeiro,HSBC Arena,1/08/2015,23:00:03
+721,USA,Las Vegas,MGM Grand Garden Arena,11/07/2015,16:00:01
+720,Mexico,Mexico City,Mexico City Arena,13/06/2015,22:00:12
+719,USA,Las Vegas,MGM Grand Garden Arena,23/05/2015,16:00:01
+718,Australia,Adelaide,Adelaide Entertainment Centre,9/05/2015,23:46:01
+717,USA,New Orleans,Smoothie King Center,6/06/2015,18:00:07
+716,Philippines,Manila,Mall of Asia Arena,16/05/2015,19:00:01
+714,Poland,Krakow,Tauron Arena,11/04/2015,18:33:45
+713,Brazil,Rio de Janeiro,Ginasio do Maracanazinho,21/03/2015,20:00:02
+712,USA,Fairfax,Patriot Center,4/04/2015,10:58:59
+711,Canada,Montreal,Bell Centre,25/04/2015,18:30:29
+706,USA,Newark,Prudential Center,18/04/2015,16:30:00
+704,USA,Dallas,American Airlines Center,14/03/2015,17:31:45
+703,Brazil,Porto Alegre,Ginasio Gigantinho,22/02/2015,19:30:08
+702,Sweden,Stockholm,Tele2 Arena,24/01/2015,22:02:08
+701,USA,Broomfield,1stBank Center,14/02/2015,18:00:13
+700,USA,Los Angeles,Staples Center,28/02/2015,16:00:06
+699,USA,Las Vegas,MGM Grand Garden Arena,31/01/2015,21:01:49
+698,USA,Boston,TD Garden,18/01/2015,23:01:03
+697,USA,Las Vegas,The Pearl at The Palms,12/12/2014,15:00:59
+696,Brazil,Barueri,Ginasio Jose Correa,20/12/2014,22:01:08
+695,USA,Phoenix,US Airways Arena,13/12/2014,12:30:06
+694,Australia,Sydney,Allphones Arena,7/11/2014,11:00:55
+693,Brazil,Uberlandia,Ginasio Municipal Tancredo Neves,8/11/2014,23:00:20
+692,USA,Austin,Frank Erwin Center,22/11/2014,18:00:03
+691,USA,Las Vegas,MGM Grand Garden Arena,3/01/2015,16:00:01
+690,USA,Las Vegas,Mandalay Bay Events Center,6/12/2014,16:01:40
+689,Mexico,Mexico City,Mexico City Arena,15/11/2014,18:02:01
+688,Canada,Halifax,Scotiabank Centre,4/10/2014,20:00:00
+687,Brazil,Rio de Janeiro,Ginasio do Maracanazinho,25/10/2014,21:02:58
+686,Sweden,Stockholm,Ericsson Globe Arena,4/10/2014,13:18:14
+685,Brazil,Brasilia,Ginasio Nilson Nelson,13/09/2014,18:45:04
+684,USA,Las Vegas,MGM Grand Garden Arena,27/09/2014,16:00:15
+683,USA,Ledyard,Foxwoods Resort Casino,5/09/2014,19:00:08
+682,USA,Tulsa,BOK Center,23/08/2014,6:30:17
+681,USA,Bangor,Cross Insurance Center,16/08/2014,20:00:02
+680,Japan,Saitama,Saitama Super Arena,20/09/2014,13:34:58
+679,China,Macau,Cotai Arena,23/08/2014,18:34:06
+678,USA,San Jose,San Jose Civic Auditorium,26/07/2014,13:15:18
+677,USA,Sacramento,Sleep Train Arena,30/08/2014,17:00:29
+676,USA,Atlantic City,Revel Resort,16/07/2014,18:30:10
+675,Ireland,Dublin,The O2 Dublin,19/07/2014,17:30:02
+674,New Zealand,Auckland,Vector Arena,28/06/2014,18:31:10
+673,USA,Las Vegas,Mandalay Bay Events Center,5/07/2014,16:00:01
+672,Germany,Berlin,O2 World,31/05/2014,16:31:07
+671,USA,Las Vegas,Mandalay Bay Events Center,6/07/2014,15:00:05
+670,USA,San Antonio,AT&T Center,28/06/2014,18:30:02
+669,Canada,Vancouver,Rogers Arena,14/06/2014,15:58:19
+668,USA,Albuquerque,Tingley Coliseum,7/06/2014,17:30:05
+667,USA,Cincinnati,U.S. Bank Arena,10/05/2014,18:32:43
+666,Brazil,Sao Paulo,Ginasio do Ibirapuera,31/05/2014,17:30:01
+665,United Arab Emirates,Abu Dhabi,du Arena,11/04/2014,20:14:21
+664,USA,Las Vegas,MGM Grand Garden Arena,24/05/2014,15:30:24
+663,Canada,Quebec City,Colisee Pepsi,16/04/2014,19:15:53
+662,Brazil,Natal,Ginasio Nelio Dias,23/03/2014,17:30:59
+661,USA,Orlando,Amway Center,19/04/2014,15:30:30
+660,USA,Baltimore,Baltimore Arena,26/04/2014,19:31:03
+655,China,Macau,Cotai Arena,1/03/2014,19:21:07
+653,USA,Dallas,American Airlines Center,15/03/2014,17:24:00
+652,USA,Chicago,United Center,25/01/2014,15:30:39
+651,USA,Duluth,Arena at Gwinett Center,15/01/2014,16:01:33
+650,USA,Las Vegas,Mandalay Bay Events Center,22/02/2014,15:59:46
+649,United Kingdom,London,The O2 Arena,8/03/2014,17:55:11
+648,Singapore,Singapore,Marina Bay Sands,4/01/2014,19:29:56
+647,Brazil,Jaragua do Sul,Arena Jaragua,15/02/2014,22:31:01
+646,USA,Newark,Prudential Center,1/02/2014,18:31:45
+645,USA,Sacramento,Sleep Train Arena,14/12/2013,13:31:18
+644,Australia,Brisbane,Queensland Entertainment Centre,6/12/2013,9:31:52
+643,USA,Las Vegas,Mandalay Bay Events Center,30/11/2013,16:30:02
+642,Brazil,Goiania,Goiania Arena,9/11/2013,20:30:13
+641,Brazil,Barueri,Ginasio Jose Correa,9/10/2013,18:00:25
+640,USA,NULL,NULL,6/11/2013,14:12:06
+639,United Kingdom,Manchester,Phones 4U Arena,26/10/2013,17:03:15
+638,USA,Las Vegas,MGM Grand Garden Arena,29/12/2013,16:00:43
+637,USA,Las Vegas,MGM Grand Garden Arena,16/11/2013,15:31:05
+636,USA,Houston,Toyota Center,19/10/2013,17:04:24
+635,Brazil,Belo Horizonte,Mineirinho Arena,4/09/2013,16:31:10
+634,Canada,Toronto,Air Canada Centre,21/09/2013,18:15:48
+633,USA,Indianapolis,Bankers Life Fieldhouse,28/08/2013,17:00:02
+632,USA,Boston,TD Garden,17/08/2013,16:15:03
+631,USA,Milwaukee,Bradley Center,31/08/2013,17:23:11
+630,Brazil,Rio de Janeiro,HSBC Arena,3/08/2013,19:30:02
+629,USA,Seattle,Key Arena,27/07/2013,12:55:58
+628,Brazil,Fortaleza,Paulo Sarasate Arena,8/06/2013,17:02:38
+627,USA,Las Vegas,MGM Grand Garden Arena,6/07/2013,15:30:38
+525,USA,Las Vegas,Mandalay Bay Events Center,5/02/2011,NULL
+500,Japan,Saitama,Saitama Super Arena,19/08/2001,14:48:22
