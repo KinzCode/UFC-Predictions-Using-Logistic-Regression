@@ -20,6 +20,10 @@ Project is created with:
   * SKLearn 0.24.1
 
 ## Data sources
+Included in this repositroy is 3 separate csv files which were scraped directly from https://www.ufc.com/. The files and their contents are:
+* fighter_data.csv: A record of 5000+ unique fights within the UFC, with a comprehensive record of the number of various strikes attempted, landed and ground control time had by each athlete within each fight.
+* fighter_results_dates.csv: A record of the results of all fighters and the fights they fought, as well as the weightclass and method of how they either won or lost.
+* event_date_location.csv: 
 
 ## Use
 The projects is divided into 5 separate scripts which need to be ran in the following order:
