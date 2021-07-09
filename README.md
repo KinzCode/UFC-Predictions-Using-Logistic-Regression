@@ -27,8 +27,8 @@ Included in this repositroy is 3 separate csv files which were scraped directly 
 
 ## Use
 The projects is divided into 5 separate scripts which need to be ran in the following order:
-1. cols.py
-2. data_cleaner.py
-3. feature_creator.py
-4. format_summed.py
-5. model.py
+1. cols.py: Defines columns and creates column names to be used in creating features and tables, that are imported by later scripts.
+2. data_cleaner.py: Cleans data by removing bad characters within the data and merges data sources into a single dataframe. The returned dataframe is saved to "dat/cleaned_df.csv".
+3. feature_creator.py: Creates rolling model features and saves dictionaries as json files in "dat" folder.
+4. format_summed.py: Creates a dataframe with the created features and target variable to train the model. Dataframe is saved as formatted_df.csv in the "dat" folder.
+5. model.py: Predictions are made on a random set of fights using SKLearn train,test,split method. A dataframe is returned holding the predictions, fixture details, along with historical market data, so further analysis can be done on if the predictions can beat betting markets. The returned dataframe is saved to "dat/testing_frame.csv"
