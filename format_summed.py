@@ -16,9 +16,9 @@ import sys
 from copy import deepcopy 
 
 
-from cols import all_cols, fight_stat_cols, numerical_fight_stat_cols, no_corner_numerical_fight_stat_cols
-from cols import hero_villain_corner_numerical_fight_stat_cols, red_blue_hero_villain_numerical_columns
-from cols import window_blue_red_hero_villain_col, window_hero_villain_col, summed_cols, window_hero_villain_col
+from cols import fight_stat_cols, no_corner_fight_stat_cols, window_blue_red_hero_villain_col
+from cols import window_hero_villain_col, summed_cols
+
 
 
 
@@ -125,7 +125,7 @@ def drop_columns(df):
 
     """
     df.reset_index(drop = True, inplace = True)
-    model_cols = window_blue_red_hero_villain_col + ['ExperienceDifference'] +['Result']
+    model_cols = window_blue_red_hero_villain_col + ['ExperienceDifference'] + ['Result']
     df = df[model_cols]
     return df
 

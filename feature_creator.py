@@ -14,8 +14,7 @@ from datetime import datetime
 from copy import deepcopy 
 
 
-from cols import all_cols, fight_stat_cols, numerical_fight_stat_cols, no_corner_numerical_fight_stat_cols, hero_villain_corner_numerical_fight_stat_cols
-from cols import summed_cols
+from cols import  fight_stat_cols, no_corner_fight_stat_cols, summed_cols
 
 
     
@@ -274,14 +273,25 @@ def create_fighter_activity(df):
     return df
 
 
-# def _create_means(df, stat_dict):
-#     df = df.reset_index(drop = True)
-#    # df.dropna(inplace = True)
-#     weight_class = str(df['WeightClass'][0])
-#     for col in no_corner_numerical_fight_stat_cols:
-#         stat_mean = (df[f'Red_{col}'] + df[f'Blue_{col}']).mean()
-#         stat_dict[weight_class][col] = stat_mean
-#     #return stat_dict
+def _create_means(df, stat_dict):
+    """
+    Parameters
+    ----------
+    df : Takes in a groupby object, groupbed by all the weightclasses in the dataset
+    stat_dict : a dictionary with the different weightclasses within the data set as keys, holding
+                more dictionaries with the fight stats as keys that hold and empty dict
+    Returns
+    -------
+    stat_dict : puts a mean value in the empty dict
+
+    """
+    df = df.reset_index(drop = True)
+    # df.dropna(inplace = True)
+    weight_class = str(df['WeightClass'][0])
+    for col in no_corner_fight_stat_cols:
+        stat_mean = (df[f'Red_{col}'] + df[f'Blue_{col}']).mean()
+        stat_dict[weight_class][col] = stat_mean
+    return stat_dict
 
 
 def mean_stats_by_weight(df, division_list):
@@ -300,7 +310,7 @@ def mean_stats_by_weight(df, division_list):
 
     """
     #division_list = list(df['WeightClass'].unique())
-    stat_dict = {i : {i : "" for i in no_corner_numerical_fight_stat_cols} for i in division_list}
+    stat_dict = {i : {i : "" for i in no_corner_fight_stat_cols} for i in division_list}
     df['WeightClass2'] = df['WeightClass']
     df.groupby('WeightClass2').apply(_create_means, stat_dict)
     return stat_dict
@@ -378,7 +388,7 @@ def create_rolling_sums(df, fighter_name):
     Returns
     -------
     Function updates fighters_stats_dict with 3 rolling variables for the hero and villain
-    numerical_fight_stat_cols
+    fight_stat_cols
 
     """
     
@@ -393,8 +403,8 @@ def create_rolling_sums(df, fighter_name):
         #Villain cols are whatever corner the non focused fighter is in
         
         if row['RedCorner'] == fighter_name:
-            hero_cols = [i for i in numerical_fight_stat_cols if 'Red_' in i]
-            villain_cols = [i for i in numerical_fight_stat_cols if 'Blue_' in i]
+            hero_cols = [i for i in fight_stat_cols if 'Red_' in i]
+            villain_cols = [i for i in fight_stat_cols if 'Blue_' in i]
         
             values_list = calculate_sums(row, hero_cols, villain_cols)
             
@@ -402,8 +412,8 @@ def create_rolling_sums(df, fighter_name):
                 hero_list.append(value)
             
         elif row['BlueCorner'] == fighter_name:
-            hero_cols = [i for i in numerical_fight_stat_cols if 'Blue_' in i]
-            villain_cols = [i for i in numerical_fight_stat_cols if 'Red_' in i]
+            hero_cols = [i for i in fight_stat_cols if 'Blue_' in i]
+            villain_cols = [i for i in fight_stat_cols if 'Red_' in i]
             
             values_list = calculate_sums(row, hero_cols, villain_cols)
             

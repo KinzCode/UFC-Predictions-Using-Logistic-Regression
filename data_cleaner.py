@@ -13,7 +13,7 @@ import datetime
 import time
 
 from copy import deepcopy
-from cols import all_cols, fight_stat_cols, numerical_fight_stat_cols, time_fight_stat_cols
+from cols import fight_stat_cols #time_fight_stat_cols
 
 
 def get_sec(time_str):
@@ -51,6 +51,8 @@ def clean_numerical_data(df):
     
     """
     df = df.replace("[*]", "", regex = True)
+    
+    time_fight_stat_cols = [i for i in fight_stat_cols if "Time" in i]
     
     df[time_fight_stat_cols] = df[time_fight_stat_cols].applymap(get_sec)
 
@@ -118,7 +120,7 @@ if __name__ == '__main__':
     #Contains data and venue information of where fights were held.
     event_date_location = pd.read_csv('dat/event_date_location.csv', encoding='ISO-8859-1')
     #Historical pinnacle closing line odds
-    with open('dat/historical_pinnacle_odds2.json') as json_file:
+    with open('dat/historical_pinnacle_odds.json') as json_file:
         pinnacle_historical_odds = json.load(json_file)
     
     
