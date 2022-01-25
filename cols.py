@@ -118,9 +118,9 @@ def run():
     window_hero_villain_col = create_window_hero_villain_col(summed_cols)
     window_blue_red_hero_villain_col = create_window_blue_red_hero_villain_col(summed_cols)
     
-    return fight_stat_cols, no_corner_fight_stat_cols, window_hero_villain_col, window_blue_red_hero_villain_col
+    return fight_stat_cols, no_corner_fight_stat_cols, window_hero_villain_col, window_blue_red_hero_villain_col, summed_cols
 
 
 
 
-fight_stat_cols, no_corner_fight_stat_cols, window_hero_villain_col, window_blue_red_hero_villain_col = run()
+fight_stat_cols, no_corner_fight_stat_cols, window_hero_villain_col, window_blue_red_hero_villain_col, summed_cols = run()

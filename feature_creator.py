@@ -16,28 +16,7 @@ from copy import deepcopy
 
 from cols import  fight_stat_cols, no_corner_fight_stat_cols, summed_cols
 
-
-    
-# def fighters_fight_tally(row, corner_colour):
-#     """
-
-#     Parameters
-#     ----------
-#     row : .
-#     corner_colour : TYPE
-#         DESCRIPTION.
-
-#     Returns
-#     -------
-#     row : TYPE
-#         DESCRIPTION.
-
-#     """
-#     row_len = len(row)
-#     fights_list = list(range(row_len))
-#     row[f'{corner_colour}CornerPreviousFightTally'] = fights_list
-#     return row
-    
+  
 
 def create_fighters_and_divisions_list(df):
     """

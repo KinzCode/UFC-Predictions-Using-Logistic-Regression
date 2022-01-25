@@ -58,6 +58,8 @@ def fit_model(df):
     # fit the model with data
     logreg.fit(X_train,y_train)
     
+    print(logreg)
+    
     #pred
     y_pred= logreg.predict_proba(X_test)
 

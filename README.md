@@ -14,7 +14,7 @@ The purpose of this project is to make predictions on who is more likely to win 
 
 ## Technologies
 Project is created with:
-* Python 3.7.8
+  * Python 3.7.8
   * Pandas 1.0.3
   * Numpy 1.19.4
   * SKLearn 0.24.1
